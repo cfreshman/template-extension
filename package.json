@@ -1,0 +1,8 @@
+{
+  "name": "template-extension",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "webextension-polyfill": "^0.10.0"
+  }
+}
